@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+models/*.pkl
+data/*.csv
+outputs/*.png
+.streamlit/secrets.toml
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
